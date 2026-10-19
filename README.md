@@ -4,7 +4,8 @@
 
 ## Lean Canvas
 
-<img width="1280" height="807" alt="telegram-cloud-photo-size-2-5372840878998757662-y" src="https://github.com/user-attachments/assets/e1a23035-9d49-47e9-9d0e-3040e84e0370" />
+<img width="1280" height="807" alt="telegram-cloud-photo-size-2-5382242875942316374-y" src="https://github.com/user-attachments/assets/6aa1af6a-f483-452e-af13-b8bd4234c70a" />
+
 
 
 
